@@ -1,4 +1,4 @@
-# Train a Natural Language Classifier to categorise a message as SPAM or HAM
+# Train a Natural Language Classifier to categorize a message as SPAM or HAM
 
 We will build a classifier on IBM Cloud and Watson Studio that classifies an incoming message as HAM or SPAM. The steps will include
 
