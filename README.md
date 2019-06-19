@@ -1,12 +1,12 @@
-# Train a speech-to-text model using Watson Studio 
+# Train a Natural Language Classifier to categorise a message as SPAM or HAM
 
-IBM provides state of the art speech to text service conversion service. We will look at how to extend this service to custom domain model using transfer learning by training the existing AI model with new data in your domain. This hands-on workshop will walk you through a number of steps including
+We will build a classifier on IBM Cloud and Watson Studio that classifies an incoming message as HAM or SPAM. The steps will include
 
-1. Prepare audio and transcription data for training the Watson model.
+1. Prepare and prepress labelled data
 
-2. Use the Watson Speech to Text API to train on the new data.
+2. Create the model in IBM Studio and deploy it
 
-3. Deploy the new model on IBM Cloud and learn how to use it with the API in your custom application
+3. Use the model in a Jupypter Notebook
 
 Pre-requisites - Curious minds and your laptop to program on! Beginner developers are welcome!
 
