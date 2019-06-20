@@ -26,5 +26,10 @@ Pre-requisites - Curious minds and your laptop to program on! Beginner developer
 2. [Natural Language Understanding](https://natural-language-understanding-demo.ng.bluemix.net/)
 3. [Email “Phishing,” “Spam,” or “Ham”](https://developer.ibm.com/patterns/predict-phishing-attempts-in-email-with-nlc/)
 
+## Other Links
+1. [Watson Natural Language Classifier API](https://cloud.ibm.com/apidocs/natural-language-classifier)
+2. [Stanford Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
+3. Complete NLP model by hand - https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73
+
 ## Speaker
 Upkar Lidder is a Full Stack Developer and Data Wrangler with a decade of development experience in a variety of roles. He can be seen speaking at various conferences and participating in local tech groups and meetups. Upkar went to graduate school in Canada and currently resides in the United States.
