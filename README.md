@@ -28,6 +28,7 @@ Pre-requisites - Curious minds and your laptop to program on! Beginner developer
 
 ## Other Links
 1. [Watson Natural Language Classifier API](https://cloud.ibm.com/apidocs/natural-language-classifier)
+2. [Watson Natural Language Classifier Documentation](https://cloud.ibm.com/docs/services/natural-language-classifier)
 2. [Stanford Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 3. Complete NLP model by hand - https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73
 
